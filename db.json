@@ -32,40 +32,135 @@
   [
     {
       "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 01",
+      "image":"https://1.bp.blogspot.com/-8OocGYWwxsY/YDpVU6kRceI/AAAAAAAAANg/PwezB-_nMAEXeweF6uBu0TdEcI1quNWjQCPcBGAYYCw/s314/doll%2B%252817%2529.jpg"
     },
     {
-      "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "id":2,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 02",
+      "image":"https://1.bp.blogspot.com/-LI0GjQIi8bM/YDpVVbS0ALI/AAAAAAAAANo/XW_SovEwf6ALjF_lNGzaJUfFtPcTtVdRwCPcBGAYYCw/s419/doll%2B%252818%2529.jpg"
     },
     {
       "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 03",
+      "image":"https://1.bp.blogspot.com/--rMJHeZJcmQ/YDpVVjcuckI/AAAAAAAAANs/5Z4U9Rrc1u0-Vs0_WxZ4cC40Iv1QjWFXgCPcBGAYYCw/s299/doll%2B%252819%2529.jpg"
     },
     {
       "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-    }
-  ,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 04",
+      "image":"https://1.bp.blogspot.com/-KPepG_qzpkI/YDpVWInV9vI/AAAAAAAAAN0/9n7e2OTme8cegVLRWYX8Ue_K9U2pgE3ywCPcBGAYYCw/s314/doll%2B%252820%2529.jpg"
+    },
     {
       "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 05",
+      "image":"https://1.bp.blogspot.com/-0jMU2E9UN98/YDpVWUYa0xI/AAAAAAAAAN4/d02ZkgZbrhMNT5MgZQDPjfCToPtq14ayQCPcBGAYYCw/s354/doll%2B%252821%2529.jpg"
     },
     {
       "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 06",
+      "image":"https://1.bp.blogspot.com/-imzTF5HQSjA/YDpVWrjXF_I/AAAAAAAAAOA/2ELh1MaAyqMkXsRtMd-N8116VfVcqBkagCPcBGAYYCw/s314/doll%2B%252822%2529.jpg"
+    },
+    {
+      "id":7,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 07",
+      "image":"https://1.bp.blogspot.com/-dJNPO_IGIyk/YDpVVM-o0JI/AAAAAAAAANk/MpgS8d3RP2AlIdSLulJYv3P8HuYIGr_qACPcBGAYYCw/s331/doll%2B%252816%2529.jpg"
+    },
+    {
+      "id":8,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 08",
+      "image":"https://1.bp.blogspot.com/-5gug8R8gIbc/YDpVUGj1RbI/AAAAAAAAANY/GI_UA0JWssQLveb4xMhRv0ChJp94HJGawCPcBGAYYCw/s350/doll%2B%252814%2529.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 09",
+      "image":"https://1.bp.blogspot.com/-dm864CX1NpQ/YDpVT-xpU6I/AAAAAAAAANU/LL9UW9vqveEgEJKIIn8S8i8j6E02jZkGwCPcBGAYYCw/s419/doll%2B%252813%2529.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 10",
+      "image":"https://1.bp.blogspot.com/-XD8TRWxgcN8/YDpVT7S8vKI/AAAAAAAAANQ/Fa1tLL9JT5kuDDkkCyXIU64PFhjxnmRiwCPcBGAYYCw/s354/doll%2B%252812%2529.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 11",
+      "image":"https://1.bp.blogspot.com/-T7tXHL6W1tg/YDpVTELsHRI/AAAAAAAAANM/T6AVSdCDsq08T3xXcjpIcMPcOP2CeUW6ACPcBGAYYCw/s354/doll%2B%252811%2529.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 12",
+      "image":"https://1.bp.blogspot.com/-0C-SggdHTiE/YDpVXfzbX4I/AAAAAAAAAOI/Nva4JrJ-cpc6MksykxKRsL_oIlCurXQhgCPcBGAYYCw/s419/doll%2B%25285%2529.jpg"
+    },
+    {
+      "id":13,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 13",
+      "image":"https://1.bp.blogspot.com/-6wlwGLR_CVM/YDpVXZdUejI/AAAAAAAAAOM/7VAW3-_Gim8Ltxh3GvvXe95ZhoihvoCUgCPcBGAYYCw/s353/doll%2B%25286%2529.jpg"
+    },
+    {
+      "id":14,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 14",
+      "image":"https://1.bp.blogspot.com/-YlWVDr1xu_4/YDpVXhIqA_I/AAAAAAAAAOQ/tnPC7bknGHkbhzc3EGn8J9b8xn1ge3ZUgCPcBGAYYCw/s331/doll%2B%25287%2529.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 15",
+      "image":"https://1.bp.blogspot.com/-UB6ZObjLiBc/YDpVYItJODI/AAAAAAAAAOY/U3lBMBzBUmQxNeburcHLCgt7NuMnFTO1ACPcBGAYYCw/s351/doll%2B%25288%2529.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 16",
+      "image":"https://1.bp.blogspot.com/-ypuR4EMcEiM/YDpVS3AefKI/AAAAAAAAANE/Yk_SkikhccMaoEo9IfkFdggTy7nkxqb5ACPcBGAYYCw/s353/doll%2B%252810%2529.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 17",
+      "image":"https://1.bp.blogspot.com/-5eANjf4koYI/YDpVWzv1vfI/AAAAAAAAAOE/Ib3-UNA7kTcU_a6DexbchKrQcWV6QHr3wCPcBGAYYCw/s321/doll%2B%25284%2529.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 18",
+      "image":"https://1.bp.blogspot.com/-rCsqTFHyk_Y/YDpVWjNpotI/AAAAAAAAAN8/uaw83LlZTv4wZh6E1ponRthLh5NFdvLKgCPcBGAYYCw/s419/doll%2B%25283%2529.jpg"
+    },
+    {
+      "id":19,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 19",
+      "image":"https://1.bp.blogspot.com/-SIHc_ieIcXg/YDpVV6oEg-I/AAAAAAAAANw/Qse5WMgjj70J5gBYhCn0qoXsL39rrB_vQCPcBGAYYCw/s419/doll%2B%25282%2529.jpg"
+    },
+    {
+      "id":20,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 20",
+      "image":"https://1.bp.blogspot.com/-SIjqsplLZOI/YDpVUipPubI/AAAAAAAAANc/1PVmHNvMTcIJmlijO16NrQOm6PqKhv2yQCPcBGAYYCw/s354/doll%2B%252815%2529.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 21",
+      "image":"https://1.bp.blogspot.com/-V01GizAh2x0/YDpVTC-shZI/AAAAAAAAANI/GlxUNIZMu6ocrnZz3qNnIMXGKJERfHSXQCPcBGAYYCw/s353/doll%2B%25281%2529.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Doll",
+      "title":"Doll Wallpaper 22",
+      "image":"https://1.bp.blogspot.com/-izpLQJHA5zI/YDpVYMNQC7I/AAAAAAAAAOU/U81_7umUC9wDpQgLxCIWXpK5L8bgDV1JwCPcBGAYYCw/s387/doll%2B%25289%2529.jpg"
     }
   ]
 }
